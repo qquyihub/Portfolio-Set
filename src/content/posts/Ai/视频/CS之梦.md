@@ -2,20 +2,20 @@
 title: CS之梦
 published: 2026-11-23
 updated: 2026-11-23
-description: 使用ai和实拍制作小视频
+description: 原创视频	双身的ai连续部分
 tags:
-  - Ai
   - 原创
+  - Ai
   - 横屏
 category: Ai视频
-slug: ai-cs
+slug: ai-ssai
 series: Ai-视频
-seriesOrder: 2
+seriesOrder: 5
 ---
 # 视频
-<video controls src="https://imgbed-gyejdng.t3.tigrisfiles.io/作品集/ai/视频/n3bAPSWi.mp4"></video>
+<video controls src="https://imgbed-gyejdng.t3.tigrisfiles.io/作品集/ai/视频/AcPdXg5N.mp4"></video>
 # 使用的工具
 - 即梦
 - gpt
-- 可灵
+- tapnow
 - 剪映
