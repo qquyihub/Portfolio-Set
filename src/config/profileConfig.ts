@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:sh330521@163.com",
+			url: "mailto:uyihub@qq.com",
 			showName: false,
 		},
 	],
