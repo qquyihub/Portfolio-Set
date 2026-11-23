@@ -87,7 +87,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/assets/images/logo/金色胶片播放图标.png",
+			src: "/assets/images/logo/金色丝带播放图标.png",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -108,7 +108,7 @@ export const siteConfig: SiteConfig = {
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
 		logo: {
 			type: "image",
-			value: "/assets/images/logo/金色丝带播放标志.png",
+			value: "/assets/images/logo/金色胶片播放标志.png",
 			alt: "🍀",
 		},
 		// 导航栏标题
