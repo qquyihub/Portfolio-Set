@@ -1,7 +1,7 @@
 ---
 title: 治愈系ip制作
 slug: xm-ipzz
-published: 19:16
+published: 2026-11-23
 order: 100
 description: 毕业作品
 status: developing
