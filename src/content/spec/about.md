@@ -1,27 +1,29 @@
-# 关于我 / About Me
+# 沈昊 · AI 制作 / 视频剪辑
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+> 浙江 · 杭州 ｜ 浙江商业职业技术学院 · 数字媒体艺术设计专业在读（2024 级）
+> 🏆 2025 米兰设计周 浙江赛区 三等奖
+> 📮 sh330521@163.com
 
-## 🛠️ 关于本站
+把一个想法，从分镜推进到成片。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+专注「**AI 生成 × 实拍剪辑 × 风格调色**」的全流程短视频创作，可独立完成从前期拍摄、AI 素材生成，到剪辑、调色与成片包装的完整链路。
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+## 🎬 我能做什么
 
+| 方向 | 说明 | 工具 |
+|------|------|------|
+| **AI 内容生成** | 提示词设计、多模态素材输出、调参迭代，让 AI 画面与实拍风格统一 | 即梦 AI · 可灵 AI · Runway · Midjourney |
+| **实拍拍摄** | 产品 / 人像 / 城市短片的现场拍摄与分镜执行 | 相机 / 手机拍摄 |
+| **剪辑包装** | 节奏卡点、叙事结构、字幕与成片包装 | 剪映专业版 · Premiere Pro |
+| **风格调色** | 日系清新 / 复古胶片 / 冷峻赛博等多种风格化调色 | DaVinci Resolve |
+
+---
+
+## 🎯 正在寻找
+
+**AI 制作 / 视频剪辑方向**的实习机会
+短视频 / 电商 / MCN / 内容团队 ｜ 坐标杭州 · 可线下到岗或远程协作
+
+📮 [sh330521@163.com](mailto:sh330521@163.com)
