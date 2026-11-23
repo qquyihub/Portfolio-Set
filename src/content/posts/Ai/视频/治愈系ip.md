@@ -11,6 +11,7 @@ category: Ai视频
 slug: ai-ipzz
 series: Ai-视频
 seriesOrder: 7
+pinned: true
 ---
 ![细节.webp](https://imgbed.fqhub.dpdns.org/file/浏览/形象/xWd84asb.webp)
 ![三视图.webp](https://imgbed.fqhub.dpdns.org/file/浏览/形象/Dig2ouJM.webp)
