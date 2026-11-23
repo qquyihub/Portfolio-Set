@@ -27,4 +27,4 @@
 **AI 制作 / 视频剪辑方向**的实习机会
 短视频 / 电商 / MCN / 内容团队 ｜ 坐标杭州 · 可线下到岗或远程协作
 
-📮 [sh330521@163.com](mailto:sh330521@163.com)
+📮 [uyihub@qq.com](mailto:uyihub@qq.com)
