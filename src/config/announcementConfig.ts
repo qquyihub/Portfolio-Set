@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "欢迎来到我作品集网站！",
 
 	// 是否允许用户关闭公告
 	closable: true,
@@ -17,7 +17,7 @@ export const announcementConfig: AnnouncementConfig = {
 		text: "了解更多",
 		// 链接 URL
 		url: "/about/",
-		// 内部链接
+		// 外部链接
 		external: false,
 	},
 };
