@@ -1,6 +1,6 @@
 ---
 title: 双身-ai
-published: 2026-11-23
+published: 2026-03-23
 updated: 2026-11-23
 description: 使用ai和实拍制作小视频
 tags:
