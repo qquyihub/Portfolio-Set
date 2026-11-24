@@ -9,6 +9,7 @@ tags:
   - 原创
 category: 正在制作
 slug: ip
+pinned: true
 ---
 ![细节.webp](https://imgbed.fqhub.dpdns.org/file/浏览/形象/xWd84asb.webp)
 ![三视图.webp](https://imgbed.fqhub.dpdns.org/file/浏览/形象/Dig2ouJM.webp)
