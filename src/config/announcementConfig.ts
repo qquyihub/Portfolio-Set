@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "需要可以签署学校三方协议",
+	content: "需要可以签署学校实习三方协议",
 
 	// 是否允许用户关闭公告
 	closable: true,
