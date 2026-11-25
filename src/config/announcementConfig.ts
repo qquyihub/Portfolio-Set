@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我作品集网站！",
+	content: "需要可以签署学校三方协议",
 
 	// 是否允许用户关闭公告
 	closable: true,
